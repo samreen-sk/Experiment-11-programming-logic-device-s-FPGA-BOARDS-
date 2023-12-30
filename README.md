@@ -1,7 +1,12 @@
 # Experiment-11-programming-logic-device-s-FPGA-BOARDS-
- ### AIM: To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+### NAME: Shaik Samreen
+### REGISTER NUMBER: 23013412
+### AIM:
+To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
+### HARDWARE REQUIRED:
+– PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED: 
+Quartus prime
 ### THEORY 
 
 ### Procedure 
